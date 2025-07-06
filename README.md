@@ -35,5 +35,5 @@ Cloud:        AWS | Firebase | Vercel | Netlify
 <p align="center"> <a href="https://linkedin.com/in/ajay-bukkaraya" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ajaybn2@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 Quote I Live By: 
-“I am in competition with no one. I have no desire to play the game of being better than anyone. I am simply trying to be better than the person I was yesterday.”
+I am in competition with no one. I have no desire to play the game of being better than anyone. I am simply trying to be better than the person I was yesterday.
 
