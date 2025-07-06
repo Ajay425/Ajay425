@@ -20,9 +20,13 @@
 ### 🛠️ Tech Stack
 
 Languages:    JavaScript | Python | TypeScript | C++
+
 Frameworks:   React | Node.js | Express | Django | Flask
+
 Tools:        Git | Docker | Postman | VSCode | Webpack
+
 Databases:    MongoDB | PostgreSQL | MySQL
+
 Cloud:        AWS | Firebase | Vercel | Netlify
 
 
