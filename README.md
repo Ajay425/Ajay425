@@ -19,7 +19,6 @@
 
 ### 🛠️ Tech Stack
 
-```bash
 Languages:    JavaScript | Python | TypeScript | C++
 Frameworks:   React | Node.js | Express | Django | Flask
 Tools:        Git | Docker | Postman | VSCode | Webpack
